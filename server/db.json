@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "Vikash Varma",
+      "email": "vikashvarma9999@gmail.com",
+      "phone": "123456789",
+      "id": 1
+    },
+    {
+      "name": "killer",
+      "email": "killer143@gmail.com",
+      "phone": "123456789",
+      "id": 2
+    },
+    {
+      "name": "darling",
+      "email": "darling143@gmail.com",
+      "phone": "123456780",
+      "id": 3
+    },
+    {
+      "name": "Brother",
+      "email": "brother143@gmail.com",
+      "phone": "12335127373",
+      "id": 4
+    },
+    {
+      "name": "Yaar",
+      "email": "yaar143@gmail.com",
+      "phone": 0,
+      "id": 5
+    }
+  ]
+}
